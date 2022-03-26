@@ -1,0 +1,11 @@
+debug/other_buttons.o
+debug/responsive_layout.o
+debug/stacked_widget.o
+debug/the_button.o
+debug/the_player.o
+debug/tomeo.o
+debug/qrc_resources.o
+debug/moc_other_buttons.o
+debug/moc_stacked_widget.o
+debug/moc_the_button.o
+debug/moc_the_player.o

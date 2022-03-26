@@ -1,0 +1,11 @@
+release/other_buttons.o
+release/responsive_layout.o
+release/stacked_widget.o
+release/the_button.o
+release/the_player.o
+release/tomeo.o
+release/qrc_resources.o
+release/moc_other_buttons.o
+release/moc_stacked_widget.o
+release/moc_the_button.o
+release/moc_the_player.o

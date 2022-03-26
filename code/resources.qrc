@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>tree.png</file>
+        <file>mountains.jpg</file>
+        <file>clouds.jpg</file>
+        <file>waves.jpg</file>
+        <file>pause.png</file>
+        <file>play.png</file>
+        <file>home-icon-silhouette.png</file>
+        <file>volume-mute.png</file>
+        <file>volume-up.png</file>
+        <file>lightmode.png</file>
+        <file>darkmode.png</file>
+    </qresource>
+</RCC>
