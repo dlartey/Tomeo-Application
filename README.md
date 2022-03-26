@@ -25,10 +25,10 @@ Now you should be able to run the application
 ![image](https://user-images.githubusercontent.com/58071586/160237466-a5f86ee4-c40e-42b0-abfa-26dc2bd0eff5.png)
 ![image](https://user-images.githubusercontent.com/58071586/160237642-b4125fb1-933f-4d9c-9271-79736e9ca702.png)
 
-Youtube Videos demonstrating functionality between prototypes:
-https://www.youtube.com/watch?v=hmynseSEDpo
-https://www.youtube.com/watch?v=_AB6TWGXQc0&feature=youtu.be
-https://youtu.be/1EGLTZy8818
-https://youtu.be/qOnAiPsRhTU
-https://youtu.be/-EtAT_RvjEo
-https://youtu.be/F1R9GYqC-zg
+Youtube Videos demonstrating functionality between prototypes:<br/>
+Prototype 1 Video - https://www.youtube.com/watch?v=hmynseSEDpo<br/>
+Prototype 2 Video - https://www.youtube.com/watch?v=_AB6TWGXQc0&feature=youtu.be<br/>
+Prototype 3 Video - https://youtu.be/1EGLTZy8818<br/>
+Prototype 4 Video - https://youtu.be/qOnAiPsRhTU<br/>
+Prototype 5 Video - https://youtu.be/-EtAT_RvjEo<br/>
+Final Product Video - https://youtu.be/F1R9GYqC-zg<br/>
